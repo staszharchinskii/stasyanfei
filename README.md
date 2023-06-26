@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stasyanfei
+- 👋 Hi, I’m @staszharchinskii
 - 👀 I’m interested in data  
 - 🌱 I’m currently learning data analysis
 - I’m currently working on my portfolio
