@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @stasyanfei
-- 👀 I’m interested in data sience and machine learning 
-- 🌱 I’m currently learning statistics and python
+- 👀 I’m interested in data  
+- 🌱 I’m currently learning data analysis
+- I’m currently working on my portfolio
 
 
 <!---
