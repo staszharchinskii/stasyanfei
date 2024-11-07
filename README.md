@@ -3,6 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm Data Analyst
 
 * 🌍  I'm based in Lviv
-*  ✉️  You can contact me at [staszharchinskii@gmail.com](mailto:staszharchinskii@gmail.com)
+*  ✉️  You can contact me at [szharchynskyi@gmail.com](mailto:szharchynskyi@gmail.com)
 
 
